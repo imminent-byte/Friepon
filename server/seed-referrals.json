@@ -1,0 +1,68 @@
+[
+  {
+    "id": "stream-blue",
+    "name": "StreamBlue",
+    "category": "Streaming",
+    "code": "BLUE20",
+    "reward": "20% off your first 3 months",
+    "description": "A polished live TV and sports streaming bundle with cloud DVR.",
+    "verified": true,
+    "featured": true,
+    "image": "https://www.boxcast.com/hubfs/Whats%20a%20Streaming%20Site%20Header.png"
+  },
+  {
+    "id": "cloudnest",
+    "name": "CloudNest",
+    "category": "Cloud",
+    "code": "NEST50",
+    "reward": "$50 hosting credit",
+    "description": "Fast app hosting for teams shipping sites, APIs, and dashboards.",
+    "verified": true,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "bytebank",
+    "name": "ByteBank",
+    "category": "Finance",
+    "code": "BYTE100",
+    "reward": "$100 bonus after qualifying deposit",
+    "description": "Modern digital banking with smart savings buckets and instant cards.",
+    "verified": true,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "fitline",
+    "name": "FitLine",
+    "category": "Fitness",
+    "code": "MOVE30",
+    "reward": "30 free premium days",
+    "description": "Training plans, nutrition tracking, and friendly progress rituals.",
+    "verified": true,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "northcart",
+    "name": "NorthCart",
+    "category": "Shopping",
+    "code": "NORTH15",
+    "reward": "15% off curated essentials",
+    "description": "A clean marketplace for home, travel, and everyday tech upgrades.",
+    "verified": false,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "learnwave",
+    "name": "LearnWave",
+    "category": "Education",
+    "code": "WAVE25",
+    "reward": "25% off annual learning",
+    "description": "Short courses and deep tracks for design, business, and code.",
+    "verified": true,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80"
+  }
+]
